@@ -19,7 +19,10 @@ cout<<*i1 <<endl;
 // moves the iterator itself and derefrence automatically and
 // give back the position
 
-
+// if your input iterator is a random access iterator  they work in 0(1) time
+  // if iterator is forward iterator , then the increment one by one and time is 0(n)  unidirectional iterator 
+  // if the iterator  is biderectional then n can be nagative
+  
 
 return 0;
 }
