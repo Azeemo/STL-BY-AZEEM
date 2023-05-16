@@ -29,6 +29,8 @@ cout<<str.find("fg");
 // return the first occurence of the string
 // -> here fg is occuring at the first index so : op / -> 1
 
+  // if the string is not present it returns
+  // string :: npos 
 
 return 0;
 }
