@@ -24,7 +24,7 @@ cout<<str.substr(1,3)<<endl;
 // both index are included
 
 
-// to check whether the substring is present or not
+// to find the first occurence of the string in the given string
 cout<<str.find("fg");
 // return the first occurence of the string
 // -> here fg is occuring at the first index so : op / -> 1
