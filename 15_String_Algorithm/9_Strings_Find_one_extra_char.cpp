@@ -26,10 +26,11 @@ int main(){
   */
 
 /* 
-   
-
 
 */
+// IN ORDER TO SOLVE IN O(1) WE CAN DO IT VIA THE XOR OPERATION
+	
+	
 
 
 return 0;
